@@ -1,0 +1,8 @@
+configProperties:
+  version: v2
+application:
+  helmValues:
+    - key: dotnet-react-dapr-2022-06-11t11-36-11-frontend.nocalhost.enabled
+      value: true
+    - key: dotnet-react-dapr-2022-06-11t11-36-11-backend.nocalhost.enabled
+      value: true
