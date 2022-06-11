@@ -6,7 +6,7 @@ image:
   repository: ghcr.io/heigliner-robot/dotnet-react-dapr-2022-06-11t11-36-11-backend
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "main"
+  tag: "14bec7d"
 imagePullSecrets:
   - name: dotnet-react-dapr-2022-06-11t11-36-11
 nameOverride: ""
